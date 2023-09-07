@@ -1,1 +1,12 @@
-
+git init készit egy új git repositorit
+git push lokális állapotot küldi el
+git clone egy létező repositorit klonozni
+git add  stagelni fájlotkat
+git commit a stagelt fájlokat commitolni
+git log commitok sorát mutatja
+gitk --all hogy az összes branchet lássuk nem csak az aktuálisat
+git diff az aktuális monkakönyvtár és commit közötti eltérést mutatja
+git checkout -búj branch készítése
+git checkout master másik branchre váltás
+git branch --delete branch törlése
+git reset --hard tényleges visszaállítás
